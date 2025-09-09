@@ -6,8 +6,8 @@
       <h1>👋 Hi, I’m Utkarsh Chaudhary</h1>
       <h3>💡 <i>Data Alchemist | Transforming raw datasets into insights, one Kamehameha at a time!</i></h3>
     </td>
-    <td align="right" width="40%">
-      <img src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" width="250">
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
     </td>
   </tr>
 </table>
