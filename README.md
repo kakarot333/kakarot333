@@ -2,14 +2,21 @@
 
 <table>
   <tr>
-    <td align="center">
+    <!-- Left side: Name + Subtitle + Tagline + Typing SVG -->
+    <td align="left" width="60%" valign="middle">
       <h1>👋 Hi, I’m Utkarsh Chaudhary</h1>
-      <h3>💡 <i>Data Alchemist | Transforming raw datasets into insights, one Kamehameha at a time!</i></h3>
+      <p style="font-size:16px; color:gray; margin:0;">
+        Data Analyst | Business Analyst | Data Scientist | Python Developer |
+      </p>
+      <p style="font-size:5px; color:gray; font-style:italic; margin:0;">
+        💡 Data Alchemist | Transforming raw datasets into insights, one Kamehameha at a time!
+      </p>
       <!-- Typing SVG (just below name & tagline) -->
       <img src="https://camo.githubusercontent.com/1fa0e05ef231b1b79aa59f80503751c25719d22e55e3e48d665100e3e04aed8d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d32322670617573653d3130303026636f6c6f723d3041383446462663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d446174612b536369656e746973743b53514c2b4578706572743b507974686f6e2b446576656c6f7065723b506f7765722b42492b5370656369616c6973743b" alt="Typing SVG"/>
-      <br><br>
-      <!-- Keep your main GIF -->
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Coding GIF"/>
+    </td>
+    <!-- Right side: Main GIF -->
+    <td align="right" width="20%">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
